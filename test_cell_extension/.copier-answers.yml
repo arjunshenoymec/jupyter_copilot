@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.0
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: arjunshenoymec@gmail.com
+author_name: arjunshenoy
+data_format: string
+file_extension: ''
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: testCellExtension
+mimetype: ''
+mimetype_name: ''
+project_short_description: A JupyterLab cell extension.
+python_name: testCellExtension
+repository: ''
+test: false
+viewer_name: ''
+
